@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Jonathan Haskett\source\repos\OSAssignment2\OSAssignment2\Source.cpp(60,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jonathan Haskett\source\repos\OSAssignment2\OSAssignment2\Source.cpp(65,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OSAssignment2.vcxproj -> C:\Users\Jonathan Haskett\source\repos\OSAssignment2\Debug\OSAssignment2.exe
